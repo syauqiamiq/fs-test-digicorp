@@ -9,4 +9,4 @@ Cara running:
 
 Ketikan perintah dibawah ini:
 
-``php main.go``
+``php main.php``
